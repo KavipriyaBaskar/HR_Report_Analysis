@@ -84,4 +84,12 @@ This dataset defines salary structures for different job roles, allowing HR to a
 - Supporting HR in making data-driven salary adjustment decisions.  
 
 ---
+
+## **Entity-Relationship Diagram**  
+The following ER diagram represents the relationship between employees, departments, recruitment costs, and salary structures.  
+
+![ER Diagram](resources/ER_Diagram.png)  
  
+![Employment Analysis](resources/Employment_Analysis.png) 
+![Payrate and Recruiting Cost Analysis](resources/Payrate_and_recrutingcost_Analysis.png)
+![Salary Category Analysis](resources/Salary_Category_Analysis.png)
