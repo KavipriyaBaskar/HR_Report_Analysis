@@ -83,32 +83,105 @@ This dataset defines salary structures for different job roles, allowing HR to a
 - Supporting HR in making data-driven salary adjustment decisions.  
 
 ---
-# **Business Insights from HR Datasets**
+# **Business Insights from HR Analysis Dashboard**
 
-## **1. Employee Demographics & Retention**
-- **High Turnover in Production:** A significant number of employee terminations occur in the **Production** department, suggesting job dissatisfaction or operational challenges.  
-- **Diversity Gaps:** The workforce is predominantly **White**, indicating the need for stronger diversity and inclusion efforts.  
-- **Recruitment Source Effectiveness:** **Employee referrals** are the primary hiring source, demonstrating the effectiveness of internal networking in attracting talent.  
+## **1. Employee Overview**
+- The company has a **total of 310 employees**, with **133 terminations**, resulting in an attrition rate of **43%**.
+- The **gender split** shows that **57%** of employees are female, while **43%** are male.
+- **Employee headcount by age group** reveals that the majority fall within the **40-59 years** range (**192 employees**), followed by **96 employees aged 20-39** and **22 employees aged 60-79**.
+- This suggests a predominantly middle-aged workforce, highlighting the need for **succession planning** and talent pipeline development.
 
-## **2. Compensation & Pay Rate Analysis**
-- **Salary Disparity:** Employee salaries range from **$14/hour to $80/hour**, suggesting potential pay inequity concerns that need to be addressed.  
-- **Production Pay vs. Performance:** Higher salaries in production roles correlate with better performance, implying that competitive wages can enhance efficiency.  
+## **2. Hiring & Attrition Trends**
+- The **hiring count peaked between 2010 and 2015**, with over **60 employees hired annually** in certain years.
+- However, attrition also spiked in the same period, suggesting potential **employee retention issues**.
+- Proactive retention strategies, such as **career growth opportunities and workplace engagement programs**, could help mitigate high turnover rates.
 
-## **3. Recruitment Cost Efficiency**
-- **Uneven Recruitment Spending:** Some recruitment channels cost up to **$10,980 annually** but contribute minimally to new hires. Optimizing budget allocation can improve cost efficiency.  
-- **Hiring Peaks:** Recruitment efforts peak in **February, August, and September**, allowing HR to plan ahead for seasonal hiring trends.  
+## **3. Recruitment Cost Analysis**
+- The **total recruiting cost is distributed across different months**, with **January spending around $4K (5.2%)** and **September reaching $9K**.
+- Costs remain **relatively stable across months**, with occasional spikes indicating **seasonal hiring trends**.
+- HR should analyze which recruitment sources **yield the highest ROI** and optimize recruitment spending accordingly.
 
-## **4. Performance & Productivity Trends**
-- **Engagement vs. Satisfaction Gap:** Engagement scores (3.33) are lower than satisfaction scores (3.89), highlighting a need to improve workplace engagement initiatives.  
-- **Production Performance Metrics:**  
-  - **Abutments per Hour** improved from **9.5 to 10.2**, reflecting increased efficiency.  
-  - **Error Rate:** Averages **0.9 errors per day**, signaling opportunities to enhance quality control.  
+## **4. Employee Distribution by Position**
+- The **largest workforce segment is in production**, with **136 Production Technicians** and **57 additional Production roles**.
+- Other key roles include **Area Sales Managers (27), Production Managers (14), Software Engineers (9), Data Analysts (8), and IT Support (8)**.
+- A **significant reliance on production staff** suggests that workforce planning and upskilling initiatives should focus on this segment to maintain efficiency.
 
-## **5. Salary Grid & Compensation Strategy**
-- **Role-Based Pay Gaps:**  
-  - The average **midpoint salary** is **$30.81/hour**, which may require adjustments for pay equity.  
-  - Structured **pay bands** can help standardize salaries and minimize disparities.  
-- **Need for Compensation Review:** The **large pay gap** among roles calls for periodic salary benchmarking to ensure fair compensation.  
+## **5. Employee Headcount Under Managers**
+- The employee distribution across managers is **fairly balanced**, with **most managers overseeing 17-22 employees**.
+- This suggests **manageable team sizes**, but performance evaluations could determine if leadership support needs to be optimized.
+
+## **6. Marital Status Distribution**
+- The workforce is predominantly **single (137 employees)**, followed by **married (123 employees)**.
+- A small proportion of employees are **divorced (30), separated (12), or widowed (8)**.
+- Understanding demographic trends can help HR design **employee benefits and wellness programs** tailored to different life situations.
+
+## **Strategic Recommendations**
+✔ **Improve retention strategies** by addressing attrition spikes and analyzing employee exit reasons.  
+✔ **Optimize recruitment spending** by investing in the most effective hiring sources.  
+✔ **Develop workforce planning initiatives** to address an aging workforce and ensure skill continuity.  
+✔ **Enhance employee engagement programs** to reduce turnover and improve productivity.  
+✔ **Leverage demographic data** to tailor benefits and wellness programs that align with employee needs.  
+
+# **Business Insights from Payrate and Recruiting Cost Analysis**
+
+## **1. Payrate Overview**
+- The **total payrate across employees is $10K**, with a **maximum payrate of $80** and a **minimum of $14**.
+- The **active payrate is $6K**, indicating that a significant portion of payroll expenses is actively utilized.
+- Understanding pay distribution can help **optimize salary structures** and ensure competitive compensation for retaining talent.
+
+## **2. Payrate Distribution by Department**
+- The **Production department** has the highest total payrate of **$4.8K**, followed by **IT/IS ($2.3K), Sales ($1.7K), and Software ($0.5K)**.
+- The **low payrate in administrative and executive roles** suggests a lean management structure.
+- Companies should **benchmark salaries** against industry standards to ensure competitive compensation.
+
+## **3. Performance Score Analysis**
+- The **majority of employees (243) have a "Fully Meets" performance score**, while **37 employees "Exceed" expectations**.
+- However, **18 employees "Need Improvement" and 12 are under "PIP" (Performance Improvement Plan)**.
+- Focused **training programs and performance incentives** can help improve employee effectiveness.
+
+## **4. Employee Satisfaction Insights**
+- Employee satisfaction is **fairly balanced**, with **108 employees having the highest satisfaction level, 98 at the second highest, and 93 at the third**.
+- A small number of employees have **very low satisfaction** scores, indicating potential areas for workplace improvements.
+- **Employee engagement initiatives** should be prioritized to maintain high satisfaction levels.
+
+## **5. Employee Abutments & Workload Analysis**
+- **Most employees work between 7-12 abutments per hour in week 2**, peaking at **37 employees working at 10 abutments per hour**.
+- Identifying workload trends can help **optimize workforce allocation** and prevent burnout.
+
+## **6. Special Projects Participation**
+- **242 employees are not engaged in special projects**, while **only 31 employees participate in 1 project, 21 in 2 projects, and very few in higher numbers**.
+- Encouraging **collaborative projects** can **boost innovation and cross-departmental engagement**.
+
+## **7. Recruitment Source Effectiveness**
+- The **top recruitment sources** include:
+  - **Employee Referral (31 hires)**
+  - **Diversity Job Fair (29 hires)**
+  - **Indeed (8 hires)**
+  - **Glassdoor (14 hires)**
+  - **Billboards (16 hires)**
+- **Traditional sources like CareerBuilder and Company Intranet** have yielded minimal hires.
+- Investing in **high-performing recruitment sources** can improve hiring efficiency and reduce costs.
+
+## **8. Total Recruiting Cost**
+- The company has spent **$84K on recruitment**.
+- Analyzing **cost per hire by source** can help **optimize recruitment spending**.
+
+## **Strategic Recommendations**
+✔ **Optimize salary structures** based on payrate distribution to ensure fair and competitive compensation.  
+✔ **Enhance performance training programs** to improve workforce productivity.  
+✔ **Strengthen employee engagement initiatives** to boost satisfaction and retention.  
+✔ **Analyze workload trends** to ensure a balanced work environment.  
+✔ **Encourage participation in special projects** to drive innovation and collaboration.  
+✔ **Invest in high-performing recruitment channels** to maximize ROI and reduce hiring costs.  
+
+
+## **Strategic Recommendations**
+✔ **Improve retention strategies** by addressing attrition spikes and analyzing employee exit reasons.  
+✔ **Optimize recruitment spending** by investing in the most effective hiring sources.  
+✔ **Develop workforce planning initiatives** to address an aging workforce and ensure skill continuity.  
+✔ **Enhance employee engagement programs** to reduce turnover and improve productivity.  
+✔ **Leverage demographic data** to tailor benefits and wellness programs that align with employee needs.  
+
 
 ## **Strategic Recommendations**
 ✔ **Optimize recruitment spending** by focusing on high-yield sources like employee referrals.  
