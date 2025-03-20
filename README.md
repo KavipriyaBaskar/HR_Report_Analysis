@@ -1,6 +1,6 @@
 # HR Data Analysis
 
-![Employment Analysis](resources/Employment_Analysis.png)
+![Employment Analysis](Resources/Employment_Analysis.png)
 
 1. HR Data Analysis involves collecting, processing, and interpreting employee-related data to enhance decision-making.  
 2. It helps organizations track key HR metrics like employee turnover, retention rates, and performance.  
