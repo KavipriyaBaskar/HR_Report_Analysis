@@ -11,8 +11,7 @@
 9. HR Data Analysis ensures compliance by monitoring policies and regulations.  
 10. Ultimately, it enables organizations to make strategic, evidence-based HR decisions.  
 
-# About Datasets
-# **Detailed Explanation of HR Datasets**  
+# About Datasets  
 
 ## **1. HR Dataset**  
 This dataset contains detailed employee information, including demographics, performance, and employment status. It is crucial for analyzing employee retention, engagement, and compensation trends.  
