@@ -84,8 +84,44 @@ This dataset defines salary structures for different job roles, allowing HR to a
 - Supporting HR in making data-driven salary adjustment decisions.  
 
 ---
+# **Business Insights from the HR Datasets**
+
+## **1. Employee Demographics & Retention**
+- **High Turnover in Production:** A significant portion of terminations occur in the **Production** department, indicating potential issues with job satisfaction or workload.  
+- **Diversity Gaps:** The workforce is predominantly **White (140 employees in production alone)**, highlighting the need for better diversity initiatives.  
+- **Recruitment Source Effectiveness:** **Employee referrals** are the primary hiring source, suggesting that investing in referral programs could further reduce hiring costs.  
+
+## **2. Compensation & Pay Rate Analysis**
+- **Salary Distribution Imbalance:** Some employees earn as low as **$14/hour**, while others earn up to **$80/hour**, raising concerns about **pay equity** and job satisfaction.  
+- **Production Pay Rate vs. Performance:** Higher-paid production employees tend to have **better performance scores**, suggesting a link between compensation and productivity.  
+
+## **3. Recruitment Cost Efficiency**
+- **Overinvestment in Certain Sources:** Some recruitment sources cost up to **$10,980 annually** but contribute minimally to hiring. Optimizing recruitment budget allocation can **reduce hiring costs** while maintaining quality hires.  
+- **Seasonal Hiring Trends:** Recruitment spikes in **February, August, and September**, indicating a pattern that HR can leverage for proactive hiring strategies.  
+
+## **4. Performance & Productivity Trends**
+- **Engagement vs. Satisfaction Mismatch:** Employee **engagement scores (3.33)** are lower than **satisfaction scores (3.89)**, suggesting that employees may feel content but not actively engaged in their roles.  
+- **Production Performance Metrics:**  
+  - **Abutments per Hour** increased from **9.5 to 10.2** in two weeks, indicating **positive efficiency trends**.  
+  - **Daily Error Rate** is **0.9 errors/day**, requiring quality control improvements to reduce errors further.  
+
+## **5. Salary Grid & Compensation Strategy**
+- **Role-Based Salary Gaps:**  
+  - Some roles have **high midpoints** (**$30.81/hour on average**), which can impact internal pay equity.  
+  - A structured **pay grade system** can help standardize salaries and minimize disparities.  
+- **Opportunity for Salary Adjustments:** Given the **large pay gap**, HR should conduct a **compensation review** to ensure fair and competitive pay across roles.  
+
+## **Strategic Recommendations**
+✔ **Optimize recruitment spend** by focusing on high-yield sources like employee referrals.  
+✔ **Enhance retention strategies** for production staff, potentially through better compensation, career growth, and workplace improvements.  
+✔ **Boost employee engagement** with development programs and recognition initiatives.  
+✔ **Address diversity gaps** by implementing structured diversity hiring programs.  
+✔ **Improve quality control** in production to reduce errors and enhance efficiency.  
+
+# Dashboards
 
 ## **Entity-Relationship Diagram**  
+
 The following ER diagram represents the relationship between employees, departments, recruitment costs, and salary structures.  
 
 ![ER Diagram](Resources/ER_Diagram.png)  
